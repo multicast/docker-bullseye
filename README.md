@@ -122,7 +122,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libdebconfclient0:amd64    0.260                          amd64        Debian Configuration Management System (C-implementation library)
     ii  libelf1:amd64              0.183-1                        amd64        library to read and write ELF files
     ii  liberror-perl              0.17029-1                      all          Perl module for error/exception handling in an OO-ish way
-    ii  libexpat1:amd64            2.2.10-2+deb11u1               amd64        XML parsing C library - runtime library
+    ii  libexpat1:amd64            2.2.10-2+deb11u2               amd64        XML parsing C library - runtime library
     ii  libext2fs2:amd64           1.46.2-2                       amd64        ext2/ext3/ext4 file system libraries
     ii  libffi7:amd64              3.3-6                          amd64        Foreign Function Interface library runtime
     ii  libgcc-s1:amd64            10.2.1-6                       amd64        GCC support library
