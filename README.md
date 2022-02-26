@@ -168,8 +168,8 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libpython3.9-stdlib:amd64  3.9.2-1                        amd64        Interactive high-level object-oriented language (standard library, version 3.9)
     ii  libreadline8:amd64         8.1-1                          amd64        GNU readline and history libraries, run-time libraries
     ii  librtmp1:amd64             2.4+20151223.gitfa8646d.1-2+b2 amd64        toolkit for RTMP streams (shared library)
-    ii  libsasl2-2:amd64           2.1.27+dfsg-2.1                amd64        Cyrus SASL - authentication abstraction library
-    ii  libsasl2-modules-db:amd64  2.1.27+dfsg-2.1                amd64        Cyrus SASL - pluggable authentication modules (DB)
+    ii  libsasl2-2:amd64           2.1.27+dfsg-2.1+deb11u1        amd64        Cyrus SASL - authentication abstraction library
+    ii  libsasl2-modules-db:amd64  2.1.27+dfsg-2.1+deb11u1        amd64        Cyrus SASL - pluggable authentication modules (DB)
     ii  libseccomp2:amd64          2.5.1-1+deb11u1                amd64        high level interface to Linux seccomp filter
     ii  libselinux1:amd64          3.1-3                          amd64        SELinux runtime shared libraries
     ii  libsemanage-common         3.1-1                          all          Common files for SELinux policy management libraries
