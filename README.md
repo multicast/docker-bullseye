@@ -81,7 +81,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  debianutils                4.11.2                         amd64        Miscellaneous utilities specific to Debian
     ii  di                         4.48-1                         amd64        advanced df like disk information utility
     ii  diffutils                  1:3.7-5                        amd64        File comparison utilities
-    ii  dpkg                       1.20.9                         amd64        Debian package management system
+    ii  dpkg                       1.20.10                        amd64        Debian package management system
     ii  e2fsprogs                  1.46.2-2                       amd64        ext2/ext3/ext4 file system utilities
     ii  etckeeper                  1.18.16-1                      all          store /etc in git, mercurial, brz or darcs
     ii  findutils                  4.8.0-1                        amd64        utilities for finding files--find, xargs
