@@ -180,7 +180,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libsqlite3-0:amd64         3.34.1-3                       amd64        SQLite 3 shared library
     ii  libss2:amd64               1.46.2-2                       amd64        command-line interface parsing library
     ii  libssh2-1:amd64            1.9.0-2                        amd64        SSH2 client-side library
-    ii  libssl1.1:amd64            1.1.1n-0+deb11u2               amd64        Secure Sockets Layer toolkit - shared libraries
+    ii  libssl1.1:amd64            1.1.1n-0+deb11u3               amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++6:amd64           10.2.1-6                       amd64        GNU Standard C++ Library v3
     ii  libsystemd0:amd64          247.3-7                        amd64        systemd utility library
     ii  libtasn1-6:amd64           4.16.0-2                       amd64        Manage ASN.1 structures (runtime)
@@ -204,7 +204,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  ncurses-base               6.2+20201114-2                 all          basic terminal type definitions
     ii  ncurses-bin                6.2+20201114-2                 amd64        terminal-related programs and man pages
     ii  net-tools                  1.60+git20181103.0eebece-1     amd64        NET-3 networking toolkit
-    ii  openssl                    1.1.1n-0+deb11u2               amd64        Secure Sockets Layer toolkit - cryptographic utility
+    ii  openssl                    1.1.1n-0+deb11u3               amd64        Secure Sockets Layer toolkit - cryptographic utility
     ii  passwd                     1:4.8.1-1                      amd64        change and administer password and group data
     ii  perl                       5.32.1-4+deb11u2               amd64        Larry Wall's Practical Extraction and Report Language
     ii  perl-base                  5.32.1-4+deb11u2               amd64        minimal Perl system
