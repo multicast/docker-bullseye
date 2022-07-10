@@ -68,9 +68,9 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  adduser                    3.118                          all          add and remove users and groups
     ii  apt                        2.2.4                          amd64        commandline package manager
     ii  apt-utils                  2.2.4                          amd64        package management related utility programs
-    ii  base-files                 11.1+deb11u3                   amd64        Debian base system miscellaneous files
+    ii  base-files                 11.1+deb11u4                   amd64        Debian base system miscellaneous files
     ii  base-passwd                3.5.51                         amd64        Debian base system master password and group files
-    ii  bash                       5.1-2+b3                       amd64        GNU Bourne Again SHell
+    ii  bash                       5.1-2+deb11u1                  amd64        GNU Bourne Again SHell
     ii  bsdutils                   1:2.36.1-8+deb11u1             amd64        basic utilities from 4.4BSD-Lite
     ii  ca-certificates            20210119                       all          Common CA certificates
     ii  coreutils                  8.32-4+b1                      amd64        GNU core utilities
@@ -81,7 +81,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  debianutils                4.11.2                         amd64        Miscellaneous utilities specific to Debian
     ii  di                         4.48-1                         amd64        advanced df like disk information utility
     ii  diffutils                  1:3.7-5                        amd64        File comparison utilities
-    ii  dpkg                       1.20.10                        amd64        Debian package management system
+    ii  dpkg                       1.20.11                        amd64        Debian package management system
     ii  e2fsprogs                  1.46.2-2                       amd64        ext2/ext3/ext4 file system utilities
     ii  etckeeper                  1.18.16-1                      all          store /etc in git, mercurial, brz or darcs
     ii  findutils                  4.8.0-1                        amd64        utilities for finding files--find, xargs
@@ -130,7 +130,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libgdbm-compat4:amd64      1.19-2                         amd64        GNU dbm database routines (legacy support runtime version) 
     ii  libgdbm6:amd64             1.19-2                         amd64        GNU dbm database routines (runtime version) 
     ii  libgmp10:amd64             2:6.2.1+dfsg-1+deb11u1         amd64        Multiprecision arithmetic library
-    ii  libgnutls30:amd64          3.7.1-5                        amd64        GNU TLS library - main runtime library
+    ii  libgnutls30:amd64          3.7.1-5+deb11u1                amd64        GNU TLS library - main runtime library
     ii  libgpg-error0:amd64        1.38-2                         amd64        GnuPG development runtime library
     ii  libgssapi-krb5-2:amd64     1.18.3-6+deb11u1               amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libhogweed6:amd64          3.7.3-1                        amd64        low level cryptographic library (public-key cryptos)
