@@ -185,8 +185,8 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libsystemd0:amd64          247.3-7                        amd64        systemd utility library
     ii  libtasn1-6:amd64           4.16.0-2                       amd64        Manage ASN.1 structures (runtime)
     ii  libtinfo6:amd64            6.2+20201114-2                 amd64        shared low-level terminfo library for terminal handling
-    ii  libtirpc-common            1.3.1-1                        all          transport-independent RPC library - common files
-    ii  libtirpc3:amd64            1.3.1-1                        amd64        transport-independent RPC library
+    ii  libtirpc-common            1.3.1-1+deb11u1                all          transport-independent RPC library - common files
+    ii  libtirpc3:amd64            1.3.1-1+deb11u1                amd64        transport-independent RPC library
     ii  libudev1:amd64             247.3-7                        amd64        libudev shared library
     ii  libunistring2:amd64        0.9.10-4                       amd64        Unicode string library for C
     ii  libuuid1:amd64             2.36.1-8+deb11u1               amd64        Universally Unique ID library
