@@ -130,7 +130,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libgdbm-compat4:amd64      1.19-2                         amd64        GNU dbm database routines (legacy support runtime version) 
     ii  libgdbm6:amd64             1.19-2                         amd64        GNU dbm database routines (runtime version) 
     ii  libgmp10:amd64             2:6.2.1+dfsg-1+deb11u1         amd64        Multiprecision arithmetic library
-    ii  libgnutls30:amd64          3.7.1-5+deb11u1                amd64        GNU TLS library - main runtime library
+    ii  libgnutls30:amd64          3.7.1-5+deb11u2                amd64        GNU TLS library - main runtime library
     ii  libgpg-error0:amd64        1.38-2                         amd64        GnuPG development runtime library
     ii  libgssapi-krb5-2:amd64     1.18.3-6+deb11u1               amd64        MIT Kerberos runtime libraries - krb5 GSS-API Mechanism
     ii  libhogweed6:amd64          3.7.3-1                        amd64        low level cryptographic library (public-key cryptos)
@@ -222,7 +222,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  tar                        1.34+dfsg-1                    amd64        GNU version of the tar archiving utility
     ii  tzdata                     2021a-1+deb11u4                all          time zone and daylight-saving time data
     ii  ucf                        3.0043                         all          Update Configuration File(s): preserve user changes to config files
-    ii  unzip                      6.0-26                         amd64        De-archiver for .zip files
+    ii  unzip                      6.0-26+deb11u1                 amd64        De-archiver for .zip files
     ii  util-linux                 2.36.1-8+deb11u1               amd64        miscellaneous system utilities
     ii  whiptail                   0.52.21-4+b3                   amd64        Displays user-friendly dialog boxes from shell scripts
     ii  xtail                      2.1-8                          amd64        like "tail -f", but works on truncated files, directories, more
