@@ -108,9 +108,9 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libbrotli1:amd64           1.0.9-2+b2                     amd64        library implementing brotli encoder and decoder (shared libraries)
     ii  libbsd0:amd64              0.11.3-1                       amd64        utility functions from BSD systems - shared library
     ii  libbz2-1.0:amd64           1.0.8-4                        amd64        high-quality block-sorting file compressor library - runtime
-    ii  libc-bin                   2.31-13+deb11u4                amd64        GNU C Library: Binaries
-    ii  libc-l10n                  2.31-13+deb11u4                all          GNU C Library: localization files
-    ii  libc6:amd64                2.31-13+deb11u4                amd64        GNU C Library: Shared libraries
+    ii  libc-bin                   2.31-13+deb11u5                amd64        GNU C Library: Binaries
+    ii  libc-l10n                  2.31-13+deb11u5                all          GNU C Library: localization files
+    ii  libc6:amd64                2.31-13+deb11u5                amd64        GNU C Library: Shared libraries
     ii  libcap-ng0:amd64           0.7.9-2.2+b1                   amd64        An alternate POSIX capabilities library
     ii  libcap2:amd64              1:2.44-1                       amd64        POSIX 1003.1e capabilities (library)
     ii  libcap2-bin                1:2.44-1                       amd64        POSIX 1003.1e capabilities (utilities)
@@ -194,7 +194,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libxxhash0:amd64           0.8.0-2                        amd64        shared library for xxhash
     ii  libzstd1:amd64             1.4.8+dfsg-2.1                 amd64        fast lossless compression algorithm
     ii  localepurge                0.7.3.10                       all          reclaim disk space by removing unneeded localizations
-    ii  locales                    2.31-13+deb11u4                all          GNU C Library: National Language (locale) data [support]
+    ii  locales                    2.31-13+deb11u5                all          GNU C Library: National Language (locale) data [support]
     ii  login                      1:4.8.1-1                      amd64        system login tools
     ii  logsave                    1.46.2-2                       amd64        save the output of a command in a log file
     ii  lsb-base                   11.1.0                         all          Linux Standard Base init script functionality
