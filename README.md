@@ -68,7 +68,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  adduser                    3.118                          all          add and remove users and groups
     ii  apt                        2.2.4                          amd64        commandline package manager
     ii  apt-utils                  2.2.4                          amd64        package management related utility programs
-    ii  base-files                 11.1+deb11u5                   amd64        Debian base system miscellaneous files
+    ii  base-files                 11.1+deb11u6                   amd64        Debian base system miscellaneous files
     ii  base-passwd                3.5.51                         amd64        Debian base system master password and group files
     ii  bash                       5.1-2+deb11u1                  amd64        GNU Bourne Again SHell
     ii  bsdutils                   1:2.36.1-8+deb11u1             amd64        basic utilities from 4.4BSD-Lite
@@ -183,7 +183,7 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  libssl1.1:amd64            1.1.1n-0+deb11u3               amd64        Secure Sockets Layer toolkit - shared libraries
     ii  libstdc++6:amd64           10.2.1-6                       amd64        GNU Standard C++ Library v3
     ii  libsystemd0:amd64          247.3-7+deb11u1                amd64        systemd utility library
-    ii  libtasn1-6:amd64           4.16.0-2                       amd64        Manage ASN.1 structures (runtime)
+    ii  libtasn1-6:amd64           4.16.0-2+deb11u1               amd64        Manage ASN.1 structures (runtime)
     ii  libtinfo6:amd64            6.2+20201114-2                 amd64        shared low-level terminfo library for terminal handling
     ii  libtirpc-common            1.3.1-1+deb11u1                all          transport-independent RPC library - common files
     ii  libtirpc3:amd64            1.3.1-1+deb11u1                amd64        transport-independent RPC library
