@@ -87,8 +87,8 @@ entry point script. See [examples](build/etc/entrypoint.d).
     ii  findutils                  4.8.0-1                        amd64        utilities for finding files--find, xargs
     ii  gcc-10-base:amd64          10.2.1-6                       amd64        GCC, the GNU Compiler Collection (base package)
     ii  gcc-9-base:amd64           9.3.0-22                       amd64        GCC, the GNU Compiler Collection (base package)
-    ii  git                        1:2.30.2-1+deb11u1             amd64        fast, scalable, distributed revision control system
-    ii  git-man                    1:2.30.2-1+deb11u1             all          fast, scalable, distributed revision control system (manual pages)
+    ii  git                        1:2.30.2-1+deb11u2             amd64        fast, scalable, distributed revision control system
+    ii  git-man                    1:2.30.2-1+deb11u2             all          fast, scalable, distributed revision control system (manual pages)
     ii  gpgv                       2.2.27-2+deb11u2               amd64        GNU privacy guard - signature verification tool
     ii  grep                       3.6-1                          amd64        GNU grep, egrep and fgrep
     ii  gzip                       1.10-4+deb11u1                 amd64        GNU compression utilities
